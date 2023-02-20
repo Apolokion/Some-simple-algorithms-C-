@@ -1,6 +1,6 @@
 
 
-// strgst1.cpp - some simple algoritms with string
+// strgst1.cpp - some simple permutation algoritms with string
 
 #include <iostream>
 #include <string>
